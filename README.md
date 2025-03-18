@@ -11,11 +11,13 @@ This is a small project that helps me understand how AR Kit works by rendering 3
 
 # Useful links
 If you want to create your own 3D object, read along this resource. Once you have generated one, feel free to add it under ARKit_Dojo_Short/Models along with other usdz files.
+
 https://developer.apple.com/documentation/realitykit/creating_a_photogrammetry_command-line_app
 https://developer.apple.com/documentation/realitykit/capturing-photographs-for-realitykit-object-capture/
 https://developer.apple.com/documentation/realitykit/creating-3d-objects-from-photographs/
 
 Here are some other useful links that I found in my readings:
+
 https://developer.apple.com/augmented-reality/quick-look/
 https://www.wwdcnotes.com/notes/wwdc21/10076/
 https://developer.apple.com/videos/play/wwdc2023/10191/
